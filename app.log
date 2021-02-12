@@ -1,0 +1,18 @@
+2021-03-12 14:03:24.784 [main] INFO  Main - In Hello world
+2021-03-12 14:03:24.825 [main] INFO  Main - Output file already exist. Rewriting it.
+2021-03-12 14:03:32.731 [main] INFO  OSMProcessor - Done with 1000000 node
+2021-03-12 14:03:39.666 [main] INFO  OSMProcessor - Done with 2000000 node
+2021-03-12 14:03:45.927 [main] INFO  OSMProcessor - Done with 3000000 node
+2021-03-12 14:03:51.998 [main] INFO  OSMProcessor - Done with 4000000 node
+2021-03-12 14:03:58.820 [main] INFO  OSMProcessor - Finish on 4000000 node
+2021-03-12 14:03:58.821 [main] INFO  Main - Starting writing result into file
+2021-03-12 14:03:58.889 [main] INFO  Main - writing done
+2021-57-12 14:57:48.288 [main] INFO  Main - In Hello world
+2021-57-12 14:57:48.316 [main] INFO  Main - Output file already exist. Rewriting it.
+2021-57-12 14:57:53.528 [main] INFO  OSMProcessor - Done with 1000000 node
+2021-57-12 14:57:58.363 [main] INFO  OSMProcessor - Done with 2000000 node
+2021-58-12 14:58:04.671 [main] INFO  OSMProcessor - Done with 3000000 node
+2021-58-12 14:58:09.719 [main] INFO  OSMProcessor - Done with 4000000 node
+2021-58-12 14:58:14.974 [main] INFO  OSMProcessor - Finish on 4000000 node
+2021-58-12 14:58:14.974 [main] INFO  Main - Starting writing result into file
+2021-58-12 14:58:15.027 [main] INFO  Main - writing done
